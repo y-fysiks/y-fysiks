@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @y-fysiks
-- 👀 I’m interested in competitive programming, robotics, AI and ML, and more. 
-- 🌱 I’m currently learning C++, Java, OpenCV, and XAML
+- 👋 Hi, I’m @y-fysiks :)
+- 👀 I’m interested in Robotics, Spaceflight and Spaec Robotics, Astronomy, AI and ML, and more. 
 - 📫 How to reach me:
   email: yubo0809@outlook.com
 
