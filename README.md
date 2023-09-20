@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @y-fysiks :)
-- 👀 I’m interested in Robotics, Spaceflight and Spaec Robotics, Astronomy, AI and ML, and more. 
+- 👀 I’m interested in Robotics, Spaceflight and Space Robotics, Astronomy, AI and ML, and more. 
 - 📫 How to reach me:
   email: yubo0809@outlook.com
 
